@@ -1,0 +1,1231 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.xctest/Contents/MacOS/IliadCommonUIPackageTests",
+      "packagePath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI",
+      "productName" : "IliadCommonUIPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.Extensions-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/sources",
+      "importPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Color+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Extension+Date.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Extension+UIImageView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIColor+Hex.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIColor+Palette.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIImage+EdgeInset.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIView+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIView+Helper.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIViewController+Container.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/ViewController+Dismiss.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/Views.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Extensions",
+      "moduleOutputPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/Extensions.swiftmodule",
+      "objects" : [
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Color+Extensions.swift.o",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+Date.swift.o",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+UIImageView.swift.o",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Hex.swift.o",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Palette.swift.o",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIImage+EdgeInset.swift.o",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Extensions.swift.o",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Helper.swift.o",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIViewController+Container.swift.o",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/ViewController+Dismiss.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extensions-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "commonui"
+      ],
+      "outputFileMapPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Color+Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+Date.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+UIImageView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Hex.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Palette.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIImage+EdgeInset.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Helper.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIViewController+Container.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/ViewController+Dismiss.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/Extensions.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Color+Extensions.swift",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Extension+Date.swift",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Extension+UIImageView.swift",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIColor+Hex.swift",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIColor+Palette.swift",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIImage+EdgeInset.swift",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIView+Extensions.swift",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIView+Helper.swift",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIViewController+Container.swift",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/ViewController+Dismiss.swift"
+      ],
+      "tempsPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.ExtensionsTests-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/sources",
+      "importPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Tests/ExtensionsTests/ExtensionsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/Extensions.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/Views.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "ExtensionsTests",
+      "moduleOutputPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/ExtensionsTests.swiftmodule",
+      "objects" : [
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/ExtensionsTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "commonui"
+      ],
+      "outputFileMapPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/ExtensionsTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/ExtensionsTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Tests/ExtensionsTests/ExtensionsTests.swift"
+      ],
+      "tempsPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.IliadCommonUIPackageTests-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.build/sources",
+      "importPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/ViewsTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/ExtensionsTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "IliadCommonUIPackageTests",
+      "moduleOutputPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/IliadCommonUIPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.build/IliadCommonUIPackageTests-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "commonui"
+      ],
+      "outputFileMapPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/IliadCommonUIPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.Views-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/sources",
+      "importPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/CloseButton.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/DefaultBlurView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/DefaultButton.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/WhiteBlurView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Views",
+      "moduleOutputPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/Views.swiftmodule",
+      "objects" : [
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/CloseButton.swift.o",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/DefaultBlurView.swift.o",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/DefaultButton.swift.o",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/WhiteBlurView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/Views-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "commonui"
+      ],
+      "outputFileMapPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/CloseButton.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/DefaultBlurView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/DefaultButton.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/WhiteBlurView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/Views.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/CloseButton.swift",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/DefaultBlurView.swift",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/DefaultButton.swift",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/WhiteBlurView.swift"
+      ],
+      "tempsPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.ViewsTests-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/sources",
+      "importPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Tests/ViewsTests/ViewsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/Views.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "ViewsTests",
+      "moduleOutputPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/ViewsTests.swiftmodule",
+      "objects" : [
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/ViewsTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "commonui"
+      ],
+      "outputFileMapPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/ViewsTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules/ViewsTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Tests/ViewsTests/ViewsTests.swift"
+      ],
+      "tempsPath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "Extensions" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Extensions",
+      "-package-name",
+      "commonui",
+      "-incremental",
+      "-c",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Color+Extensions.swift",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Extension+Date.swift",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Extension+UIImageView.swift",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIColor+Hex.swift",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIColor+Palette.swift",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIImage+EdgeInset.swift",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIView+Extensions.swift",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIView+Helper.swift",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIViewController+Container.swift",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/ViewController+Dismiss.swift",
+      "-I",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extensions-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "commonui",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "ExtensionsTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "ExtensionsTests",
+      "-package-name",
+      "commonui",
+      "-incremental",
+      "-c",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Tests/ExtensionsTests/ExtensionsTests.swift",
+      "-I",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "commonui",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "IliadCommonUIPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "IliadCommonUIPackageTests",
+      "-package-name",
+      "commonui",
+      "-incremental",
+      "-c",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.build/IliadCommonUIPackageTests-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "commonui",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "Views" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Views",
+      "-package-name",
+      "commonui",
+      "-incremental",
+      "-c",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/CloseButton.swift",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/DefaultBlurView.swift",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/DefaultButton.swift",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/WhiteBlurView.swift",
+      "-I",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/Views-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "commonui",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "ViewsTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "ViewsTests",
+      "-package-name",
+      "commonui",
+      "-incremental",
+      "-c",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Tests/ViewsTests/ViewsTests.swift",
+      "-I",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "commonui",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "Extensions" : [
+      "Views"
+    ],
+    "ExtensionsTests" : [
+      "Extensions",
+      "Views"
+    ],
+    "IliadCommonUIPackageTests" : [
+      "ExtensionsTests",
+      "Extensions",
+      "ViewsTests",
+      "Views"
+    ],
+    "Views" : [
+
+    ],
+    "ViewsTests" : [
+      "Views"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "writeCommands" : {
+    "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Color+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Extension+Date.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Extension+UIImageView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIColor+Hex.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIColor+Palette.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIImage+EdgeInset.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIView+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIView+Helper.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIViewController+Container.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/ViewController+Dismiss.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/sources"
+    },
+    "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Color+Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+Date.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+UIImageView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Hex.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Palette.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIImage+EdgeInset.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Helper.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIViewController+Container.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/ViewController+Dismiss.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/CloseButton.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/DefaultBlurView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/DefaultButton.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/WhiteBlurView.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.product/Objects.LinkFileList"
+    },
+    "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Tests/ExtensionsTests/ExtensionsTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/sources"
+    },
+    "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.build/sources"
+    },
+    "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Color+Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+Date.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+UIImageView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Hex.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Palette.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIImage+EdgeInset.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Helper.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIViewController+Container.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/ViewController+Dismiss.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/ExtensionsTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/CloseButton.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/DefaultBlurView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/DefaultButton.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/WhiteBlurView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/ViewsTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUIPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/CloseButton.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/DefaultBlurView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/DefaultButton.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Views/WhiteBlurView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/sources"
+    },
+    "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/CloseButton.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/DefaultBlurView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/DefaultButton.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/WhiteBlurView.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.product/Objects.LinkFileList"
+    },
+    "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Tests/ViewsTests/ViewsTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/sources"
+    },
+    "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

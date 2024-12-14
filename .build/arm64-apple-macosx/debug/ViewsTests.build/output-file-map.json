@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/master.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Tests/ViewsTests/ViewsTests.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/ViewsTests.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/ViewsTests.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/ViewsTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ViewsTests.build/ViewsTests.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module YourPackage {
+    header "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/YourPackage.build/YourPackage-Swift.h"
+    requires objc
+}

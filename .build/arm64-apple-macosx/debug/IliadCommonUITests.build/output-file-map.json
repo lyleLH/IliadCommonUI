@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUITests.build/master.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Tests/YourPackageTests/YourPackageTests.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUITests.build/YourPackageTests.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUITests.build/YourPackageTests.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUITests.build/YourPackageTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUITests.build/YourPackageTests.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module IliadCommonUI {
+    header "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/IliadCommonUI.build/IliadCommonUI-Swift.h"
+    requires objc
+}

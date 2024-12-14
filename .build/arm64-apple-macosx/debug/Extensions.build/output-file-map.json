@@ -1,0 +1,65 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/master.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Color+Extensions.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Color+Extensions.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Color+Extensions.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Color+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Color+Extensions.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Extension+Date.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+Date.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+Date.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+Date~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+Date.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/Extension+UIImageView.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+UIImageView.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+UIImageView.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+UIImageView~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extension+UIImageView.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIColor+Hex.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Hex.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Hex.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Hex~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Hex.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIColor+Palette.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Palette.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Palette.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Palette~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIColor+Palette.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIImage+EdgeInset.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIImage+EdgeInset.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIImage+EdgeInset.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIImage+EdgeInset~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIImage+EdgeInset.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIView+Extensions.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Extensions.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Extensions.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Extensions.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIView+Helper.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Helper.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Helper.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Helper~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIView+Helper.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/UIViewController+Container.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIViewController+Container.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIViewController+Container.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIViewController+Container~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/UIViewController+Container.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Sources/Extensions/ViewController+Dismiss.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/ViewController+Dismiss.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/ViewController+Dismiss.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/ViewController+Dismiss~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/ViewController+Dismiss.swiftdeps"
+  }
+}

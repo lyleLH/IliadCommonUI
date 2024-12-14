@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/master.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/Tests/ExtensionsTests/ExtensionsTests.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/ExtensionsTests.d",
+    "object": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/ExtensionsTests.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/ExtensionsTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/ExtensionsTests.build/ExtensionsTests.swiftdeps"
+  }
+}

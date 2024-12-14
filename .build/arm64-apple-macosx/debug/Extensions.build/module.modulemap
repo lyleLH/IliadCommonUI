@@ -1,0 +1,4 @@
+module Extensions {
+    header "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Extensions.build/Extensions-Swift.h"
+    requires objc
+}

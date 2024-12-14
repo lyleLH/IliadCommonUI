@@ -1,0 +1,4 @@
+module Views {
+    header "/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/Views.build/Views-Swift.h"
+    requires objc
+}

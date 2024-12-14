@@ -1,0 +1,31 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/hao92/Documents/GitHub/iliad-ios/CommonUI/.build/arm64-apple-macosx/debug/YourPackagePackageTests.xctest/Contents/MacOS/YourPackagePackageTests'
+relocations:
+  - { offset: 0x91, size: 0x8, addend: 0x0, symName: '_$s11YourPackageAAVABycfC', symObjAddr: 0x0, symBinAddr: 0x15A8, symSize: 0x4 }
+  - { offset: 0xDD, size: 0x8, addend: 0x0, symName: '_$s11YourPackageAAVMa', symObjAddr: 0x30, symBinAddr: 0x15D8, symSize: 0x14 }
+  - { offset: 0xF7, size: 0x8, addend: 0x0, symName: '_$s11YourPackageAAVABycfC', symObjAddr: 0x0, symBinAddr: 0x15A8, symSize: 0x4 }
+  - { offset: 0x126, size: 0x8, addend: 0x0, symName: '_$s11YourPackageAAV12someFunctionSSyF', symObjAddr: 0x4, symBinAddr: 0x15AC, symSize: 0x2C }
+  - { offset: 0x1AF, size: 0x8, addend: 0x0, symName: '_$s011YourPackageB5Tests6RunnerV14testingLibrary33_3B51BF61BD385452270C42A635B56A44LLSSyFZ', symObjAddr: 0x0, symBinAddr: 0x15EC, symSize: 0x21C }
+  - { offset: 0x291, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x8A8, symBinAddr: 0x1E94, symSize: 0x88 }
+  - { offset: 0x2AF, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x21C, symBinAddr: 0x1808, symSize: 0x6C }
+  - { offset: 0x2C2, size: 0x8, addend: 0x0, symName: '_$sSaySSGSayxGSlsWl', symObjAddr: 0x288, symBinAddr: 0x1874, symSize: 0x70 }
+  - { offset: 0x2D5, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameAbstract, symObjAddr: 0x2F8, symBinAddr: 0x18E4, symSize: 0x74 }
+  - { offset: 0x2E8, size: 0x8, addend: 0x0, symName: '_$ss16IndexingIteratorVySaySSGGWOh', symObjAddr: 0x36C, symBinAddr: 0x1958, symSize: 0x28 }
+  - { offset: 0x313, size: 0x8, addend: 0x0, symName: '_$sS2cMScAsWl', symObjAddr: 0x608, symBinAddr: 0x1BF4, symSize: 0x70 }
+  - { offset: 0x344, size: 0x8, addend: 0x0, symName: '_$sIetH_yts5Error_pIegHrzo_TR', symObjAddr: 0x930, symBinAddr: 0x1F1C, symSize: 0x80 }
+  - { offset: 0x37A, size: 0x8, addend: 0x0, symName: '_$sIetH_yts5Error_pIegHrzo_TRTQ0_', symObjAddr: 0x9B0, symBinAddr: 0x1F9C, symSize: 0x6C }
+  - { offset: 0x3D6, size: 0x8, addend: 0x0, symName: '_$sIetH_yts5Error_pIegHrzo_TRTA', symObjAddr: 0xA44, symBinAddr: 0x2030, symSize: 0xA4 }
+  - { offset: 0x403, size: 0x8, addend: 0x0, symName: '_$sIetH_yts5Error_pIegHrzo_TRTATQ0_', symObjAddr: 0xAE8, symBinAddr: 0x20D4, symSize: 0x68 }
+  - { offset: 0x450, size: 0x8, addend: 0x0, symName: '_$s011YourPackageB5Tests6RunnerVMa', symObjAddr: 0xB50, symBinAddr: 0x213C, symSize: 0x14 }
+  - { offset: 0x4B1, size: 0x8, addend: 0x0, symName: '_$s011YourPackageB5Tests6RunnerV14testingLibrary33_3B51BF61BD385452270C42A635B56A44LLSSyFZ', symObjAddr: 0x0, symBinAddr: 0x15EC, symSize: 0x21C }
+  - { offset: 0x531, size: 0x8, addend: 0x0, symName: '_$s011YourPackageB5Tests6RunnerV4mainyyYaFZ', symObjAddr: 0x394, symBinAddr: 0x1980, symSize: 0xAC }
+  - { offset: 0x583, size: 0x8, addend: 0x0, symName: '_$s011YourPackageB5Tests6RunnerV4mainyyYaFZTY0_', symObjAddr: 0x440, symBinAddr: 0x1A2C, symSize: 0x164 }
+  - { offset: 0x5ED, size: 0x8, addend: 0x0, symName: '_$s011YourPackageB5Tests6RunnerV4mainyyYaFZTQ1_', symObjAddr: 0x5A4, symBinAddr: 0x1B90, symSize: 0x64 }
+  - { offset: 0x658, size: 0x8, addend: 0x0, symName: '_$s011YourPackageB5Tests6RunnerV5$mainyyYaFZ', symObjAddr: 0x678, symBinAddr: 0x1C64, symSize: 0x8C }
+  - { offset: 0x688, size: 0x8, addend: 0x0, symName: '_$s011YourPackageB5Tests6RunnerV5$mainyyYaFZTQ0_', symObjAddr: 0x704, symBinAddr: 0x1CF0, symSize: 0x94 }
+  - { offset: 0x6E0, size: 0x8, addend: 0x0, symName: '_$s011YourPackageB5Tests6RunnerV5$mainyyYaFZTY1_', symObjAddr: 0x798, symBinAddr: 0x1D84, symSize: 0x48 }
+  - { offset: 0x712, size: 0x8, addend: 0x0, symName: '_$s011YourPackageB5Tests6RunnerVACycfC', symObjAddr: 0x7E0, symBinAddr: 0x1DCC, symSize: 0x4 }
+  - { offset: 0x732, size: 0x8, addend: 0x0, symName: _async_Main, symObjAddr: 0x7E4, symBinAddr: 0x1DD0, symSize: 0x74 }
+  - { offset: 0x75B, size: 0x8, addend: 0x0, symName: _async_MainTQ0_, symObjAddr: 0x858, symBinAddr: 0x1E44, symSize: 0x50 }
+...
